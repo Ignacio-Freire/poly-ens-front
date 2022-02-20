@@ -54,7 +54,7 @@ header{
 .right{
   display: flex;
   background: black;
-  border-radius: 16px;
+  border-radius: 0px;
   padding: 12px 20px;
   height: 99%;
   margin-right: 10%;
